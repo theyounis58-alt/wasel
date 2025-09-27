@@ -1,0 +1,439 @@
+{
+  "brand": {
+    "full": "WASL – Al-Sabereen Workforce Transportation & General Supplies",
+    "short": "WASL",
+    "tagline": "Solutions for Labor Transportation and General Supplies"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services", 
+    "fleet": "Fleet",
+    "clients": "Clients",
+    "contact": "Contact",
+    "language": "العربية"
+  },
+  "actions": {
+    "requestQuote": "Request a Quote",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "submit": "Submit Message",
+    "viewAll": "View All",
+    "getStarted": "Get Started",
+    "downloadProfile": "Download Company Profile"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Workforce Solutions, Done Right.",
+      "subtitle": "Complete transportation services, reliable manpower supply, and enterprise-grade operations across Egypt with 10+ years of proven experience.",
+      "announcement": "Trusted by 50+ Major Companies | E-Invoices & Documented Contracts"
+    },
+    "highlights": {
+      "manpower": {
+        "title": "Manpower Supply",
+        "description": "Production line workers, warehouse teams, packaging & operational support with rapid scale-up capabilities.",
+        "details": [
+          "Skilled & unskilled workers",
+          "Production line operators", 
+          "Warehouse loading/unloading teams",
+          "Packaging specialists",
+          "Rapid replacement service"
+        ]
+      },
+      "transportation": {
+        "title": "Workforce Transportation", 
+        "description": "Daily shuttles via modern minibuses & jumbo vehicles—punctual, insured, and GPS-tracked.",
+        "details": [
+          "Daily routes to industrial zones",
+          "Modern fleet (microbuses & jumbo)",
+          "GPS tracking & monitoring",
+          "Emergency backup plans",
+          "Professional trained drivers"
+        ]
+      },
+      "support": {
+        "title": "Industrial & Operational Support",
+        "description": "Route coordination, operations management, warehouse teams, and 24/7 emergency backup solutions.",
+        "details": [
+          "Operations managers",
+          "Route coordinators", 
+          "Administrative support",
+          "Restaurant management teams",
+          "Medical staff for clinics",
+          "Tower operation & maintenance"
+        ]
+      }
+    },
+    "trusted": {
+      "caption": "Trusted by 50+ major corporations and industrial leaders across Egypt with documented contracts and e-invoices.",
+      "subtitle": "From Egyptian Railways Medical Center to Fugro Global - we serve industry leaders"
+    },
+    "features": {
+      "onTime": "On-time Delivery",
+      "safety": "Safety First",
+      "insured": "Fully Insured", 
+      "backup": "24/7 Emergency Backup",
+      "tracking": "Real-time GPS Tracking",
+      "professional": "Professional Drivers",
+      "maintenance": "Regular Fleet Maintenance",
+      "support": "Dedicated Support Team"
+    },
+    "stats": {
+      "experience": "Years Experience",
+      "routes": "Daily Routes",
+      "onTime": "On-time Rate",
+      "clients": "Active Clients",
+      "workers": "Daily Workers",
+      "vehicles": "Fleet Vehicles"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Developing modern operating and monitoring systems"
+      },
+      "speed": {
+        "title": "Speed of Achievement", 
+        "description": "Quick response and efficient service delivery"
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Maintaining highest standards in all operations"
+      },
+      "productivity": {
+        "title": "Productivity",
+        "description": "Maximizing efficiency for optimal results"
+      },
+      "teamwork": {
+        "title": "Teamwork",
+        "description": "Collaborative approach to achieve success"
+      },
+      "leadership": {
+        "title": "Leadership",
+        "description": "Leading by example in the industry"
+      },
+      "ethics": {
+        "title": "Professional Ethics",
+        "description": "Maintaining integrity in all business dealings"
+      },
+      "commitment": {
+        "title": "Commitment",
+        "description": "Dedicated to client satisfaction and success"
+      }
+    },
+    "cta": {
+      "title": "Ready to Partner with Egypt's Leading Workforce Solutions Provider?",
+      "subtitle": "Join 50+ companies who trust WASL for their transportation and manpower needs",
+      "primary": "Get Your Quote Today",
+      "secondary": "Download Company Profile"
+    }
+  },
+  "about": {
+    "title": "Who We Are",
+    "intro": "WASL is the commercial brand of Al-Sabereen Labor Transportation and General Supplies Company, established to be the ideal solution for labor transportation and logistical support within Egypt.",
+    "description": "We are committed to providing integrated, professional transportation services that meet the daily needs of factories and companies, through a fully equipped fleet of microbuses and transport vehicles, with precise operational management and alternative plans that ensure uninterrupted business continuity.",
+    "journey": "Our Journey",
+    "timeline": {
+      "2014": {
+        "title": "Company Founded",
+        "desc": "Al-Sabereen established as a workforce transportation company"
+      },
+      "2018": {
+        "title": "Fleet Expansion",
+        "desc": "Expanded fleet to serve major industrial areas across Egypt"
+      },
+      "2021": {
+        "title": "WASL Brand Launch",
+        "desc": "Launched WASL as our commercial brand with enhanced services"
+      },
+      "2025": {
+        "title": "Digital Transformation",
+        "desc": "Implementing GPS tracking, e-invoicing and digital operations"
+      }
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "At WASL, we strive to be the first choice for companies and factories in the field of labor transportation and logistical support within Egypt, through safe, innovative, and sustainable services. We focus on achieving global standards in logistics, project management, and labor recruitment.",
+      "pillars": [
+        "Safety First: Protecting every worker during their journey",
+        "Innovation: Developing modern operating and monitoring systems", 
+        "Sustainability: Operating efficient, economical, and eco-friendly fleet",
+        "Partnerships: Enhancing cooperation with major companies"
+      ]
+    },
+    "mission": {
+      "title": "Mission", 
+      "content": "WASL, the commercial arm of Al-Sabereen Labor Transport and General Supplies, seeks to be the mainstay in the field of labor transportation and logistical services within Egypt, by providing practical solutions that ensure high efficiency and complete reliability.",
+      "commitments": [
+        "Providing safe and fast labor transportation services with emergency alternatives",
+        "Investing in technology such as tracking systems and fleet management",
+        "Reducing costs and increasing efficiency through flexible solutions",
+        "Supporting industrial growth by facilitating worker movement",
+        "Contributing to economic development through operational stability"
+      ]
+    },
+    "team": {
+      "title": "Our Management Team",
+      "description": "Our management team includes specialized personnel to efficiently manage transportation operations and labor supply",
+      "roles": [
+        "Operations Managers",
+        "Route Coordinators", 
+        "Administrative Support",
+        "Accounting Management",
+        "Professional Drivers",
+        "Warehouse Management Teams"
+      ]
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive workforce solutions tailored to your business needs",
+    "manpower": {
+      "title": "Manpower Supply",
+      "description": "Comprehensive workforce solutions for all your operational needs",
+      "bullets": [
+        "Production line workers",
+        "Warehouse teams (loading/unloading)", 
+        "Packaging & basic ops support",
+        "Rapid scale-up & replacements",
+        "Specialized technical workers",
+        "Quality control personnel"
+      ]
+    },
+    "transportation": {
+      "title": "Workforce Transportation",
+      "description": "Reliable daily transportation services with modern fleet",
+      "bullets": [
+        "Daily shuttles to industrial zones",
+        "Modern minibuses & jumbo vehicles",
+        "Punctual, insured operations",
+        "Professional route planning",
+        "24/7 emergency backups",
+        "GPS tracking & monitoring"
+      ]
+    },
+    "industrial": {
+      "title": "Industrial & Corporate Support",
+      "description": "Specialized support services for industrial operations",
+      "bullets": [
+        "Route coordinators & ops managers",
+        "Warehouse operations teams", 
+        "Basic maintenance liaison & shift coverage",
+        "Administrative support services",
+        "Project coordination",
+        "Quality assurance teams"
+      ]
+    },
+    "emergency": {
+      "title": "Emergency & Backup Solutions",
+      "description": "24/7 emergency response and backup services",
+      "bullets": [
+        "Replacement buses & drivers 24/7",
+        "Emergency response teams",
+        "Backup operational plans",
+        "Crisis management support"
+      ]
+    },
+    "additional": {
+      "title": "Additional Specialized Services",
+      "medical": {
+        "title": "Medical Staff Services",
+        "description": "Qualified medical staff for clinics and hospitals management"
+      },
+      "restaurant": {
+        "title": "Restaurant Management",
+        "description": "Specialized teams for restaurant project operations and management"
+      },
+      "maintenance": {
+        "title": "Tower Operations & Maintenance", 
+        "description": "Professional tower operation and maintenance services"
+      }
+    }
+  },
+  "fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Modern, well-maintained vehicles with comprehensive insurance and GPS tracking",
+    "note": "Actual fleet size and specifications available upon request.",
+    "description": "WASL owns a diverse fleet covering all transportation needs with regular maintenance to ensure full readiness",
+    "features": {
+      "title": "Fleet Features & Capabilities",
+      "gps": {
+        "title": "GPS Tracking & Monitoring",
+        "description": "Real-time location tracking and route optimization for all vehicles"
+      },
+      "maintenance": {
+        "title": "Regular Preventive Maintenance",
+        "description": "Scheduled maintenance programs to ensure reliability and safety"
+      },
+      "insurance": {
+        "title": "Comprehensive Insurance Coverage",
+        "description": "Full insurance protection for passengers, cargo, and third parties"
+      },
+      "drivers": {
+        "title": "Professional Trained Drivers",
+        "description": "Experienced drivers committed to safety and discipline standards"
+      }
+    },
+    "types": {
+      "minibuses": {
+        "title": "Modern Minibuses",
+        "description": "Daily worker transportation with 14-16 passenger capacity",
+        "features": ["Air conditioning", "Safety equipment", "Comfortable seating"]
+      },
+      "jumbo": {
+        "title": "Jumbo Vehicles", 
+        "description": "Long routes and high-density transportation with 28-33 capacity",
+        "features": ["Extended range", "Higher capacity", "Enhanced comfort"]
+      },
+      "specialized": {
+        "title": "Specialized Vehicles",
+        "description": "Custom solutions for specific transportation needs",
+        "features": ["Water tankers", "Cargo vehicles", "Emergency vehicles"]
+      }
+    }
+  },
+  "clients": {
+    "title": "Our Clients & Partners",
+    "intro": "We proudly serve Egypt's top corporates and industrial leaders—with official e-invoices and signed contracts.",
+    "subtitle": "Trusted by major companies across various industries",
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "testimonial1": {
+        "text": "WASL has been our trusted transportation partner for over 3 years. Their reliability and professional service have been essential to our operations.",
+        "author": "Operations Manager",
+        "company": "Major Manufacturing Client"
+      },
+      "testimonial2": {
+        "text": "Their GPS tracking and backup systems give us peace of mind. We never worry about our employees' transportation.",
+        "author": "HR Director",
+        "company": "Technology Company"
+      },
+      "testimonial3": {
+        "text": "The e-invoicing system and documented contracts make our accounting processes seamless. True professionalism.",
+        "author": "Finance Manager", 
+        "company": "Industrial Corporation"
+      }
+    },
+    "clientList": {
+      "railways": {
+        "name": "Egyptian Railways Medical Center",
+        "sector": "Healthcare",
+        "services": "Daily staff transportation, medical equipment logistics",
+        "relationship": "Long-term partner since 2019"
+      },
+      "fugro": {
+        "name": "Fugro (Global Engineering)",
+        "sector": "Engineering & Consulting",
+        "services": "Field team transportation, project logistics support, water tanker rental",
+        "relationship": "International client with multiple projects"
+      },
+      "sankrit": {
+        "name": "Sankrit Egypt",
+        "sector": "Manufacturing",
+        "services": "Workforce transportation, warehouse operations, manpower supply",
+        "relationship": "Strategic manufacturing partner"
+      },
+      "microsoft": {
+        "name": "Microsoft Egypt (Nasr City)",
+        "sector": "Technology",
+        "services": "Employee shuttle services, event transportation",
+        "relationship": "Corporate technology partner"
+      },
+      "ems": {
+        "name": "EMS Egyptian Microsolutions",
+        "sector": "Technology Solutions",
+        "services": "Daily transportation services, technical staff transport",
+        "relationship": "Technology sector client"
+      }
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "healthcare": "Healthcare & Medical",
+      "manufacturing": "Manufacturing & Industrial",
+      "technology": "Technology & IT",
+      "engineering": "Engineering & Consulting",
+      "logistics": "Logistics & Supply Chain",
+      "construction": "Construction & Infrastructure"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with our team for workforce transportation and logistics solutions",
+    "subtitle": "Ready to discuss your transportation and manpower needs?",
+    "sendMessage": "Send us a message",
+    "sending": "Sending...",
+    "company": {
+      "name": "Al-Sabereen Workforce Transportation & General Supplies (WASL)",
+      "phone": "+20 1X XXX XXXX",
+      "email": "waslteam@vistel.com", 
+      "website": "www.waselalsabreen.com",
+      "location": "Al-Shanbab, Badrashin Center, Giza, Egypt",
+      "registration": "Registration #684453452"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "company": "Company",
+      "phone": "Phone", 
+      "email": "Email",
+      "service": "Service Needed",
+      "message": "Message",
+      "submit": "Submit Message",
+      "success": "Message sent successfully! We'll contact you within 24 hours.",
+      "error": "Failed to send message. Please try again or contact us directly.",
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number"
+    },
+    "services": {
+      "transportation": "Workforce Transportation",
+      "manpower": "Manpower Supply", 
+      "industrial": "Industrial Support",
+      "emergency": "Emergency Services",
+      "other": "Other Services"
+    },
+    "office": {
+      "title": "Our Office",
+      "address": "Al-Shanbab, Badrashin Center, Giza, Egypt",
+      "hours": "Sunday - Thursday: 8:00 AM - 6:00 PM",
+      "emergency": "24/7 Emergency Support Available"
+    }
+  },
+  "footer": {
+    "bio": "WASL is the commercial brand of Al-Sabereen, delivering reliable workforce transportation and manpower supply solutions across Egypt with professional standards and documented contracts.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services", 
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "invoicing": "E-Invoicing Portal", 
+    "copyright": "© 2025 WASL – Al-Sabereen Workforce Transportation & General Supplies. All rights reserved.",
+    "registration": "Registration #684453452 | Tax Activity Code: 5229"
+  },
+  "seo": {
+    "home": {
+      "title": "WASL | Workforce Transportation & Manpower Supply in Egypt",
+      "description": "Professional workforce transportation and manpower supply services across Egypt. Daily shuttles, reliable logistics, and enterprise-grade operations with documented contracts and e-invoices."
+    },
+    "about": {
+      "title": "About WASL | Leading Workforce Transportation Company in Egypt", 
+      "description": "Learn about WASL (Al-Sabereen), Egypt's trusted partner for workforce transportation, manpower supply, and industrial logistics solutions with 10+ years experience."
+    },
+    "services": {
+      "title": "Services | Workforce Transportation & Manpower Supply Solutions",
+      "description": "Comprehensive workforce transportation, manpower supply, industrial support, and emergency services across Egypt. Professional solutions with 24/7 backup support."
+    },
+    "fleet": {
+      "title": "Our Fleet | Modern Transportation Solutions with GPS Tracking",
+      "description": "Modern minibuses, jumbo vehicles with GPS tracking, comprehensive insurance, and preventive maintenance for reliable workforce transportation across Egypt."
+    },
+    "clients": {
+      "title": "Our Clients | Trusted by Egypt's Leading Companies & Industries",
+      "description": "Serving major corporations including Egyptian Railways Medical Center, Fugro Global, Sankrit Egypt, Microsoft Egypt, and EMS with reliable workforce solutions."
+    },
+    "contact": {
+      "title": "Contact WASL | Get Your Workforce Transportation Quote Today",
+      "description": "Contact WASL for professional workforce transportation and manpower supply services. Get your quote today for reliable logistics solutions across Egypt with e-invoicing."
+    }
+  }
+}

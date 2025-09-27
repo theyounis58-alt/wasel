@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Arabic Font */
+@font-face {
+  font-family: 'Palestine';
+  src: url('/fonts/alfont_com_Palestine-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TheYearofTheCamel';
+  src: url('/fonts/alfont_com_TheYearofTheCamel-ExtraBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --color-primary: #0C5F3D;
+    --color-secondary: #1C1C1C;
+    --color-accent: #8B8B8B;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply text-secondary-700 leading-relaxed;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-secondary-900 font-semibold leading-tight;
+  }
+
+  /* RTL specific styles */
+  [dir="rtl"] {
+    font-family: 'TheYearofTheCamel', 'Tahoma', 'Arial', system-ui, sans-serif;
+  }
+
+  /* Arabic titles and headings use Palestine font with medium weight */
+  [dir="rtl"] h1, 
+  [dir="rtl"] h2, 
+  [dir="rtl"] .font-title {
+    font-family: 'Palestine', 'TheYearofTheCamel', 'Tahoma', system-ui, sans-serif;
+    font-weight: 500; /* medium weight instead of bold */
+  }
+
+  [dir="rtl"] .rtl-flip {
+    transform: scaleX(-1);
+  }
+
+  [dir="rtl"] .rtl-text-right {
+    text-align: right;
+  }
+
+  [dir="ltr"] .ltr-text-left {
+    text-align: left;
+  }
+
+  /* Animation utilities */
+  .animate-fade-in-up {
+    @apply animate-slide-up;
+  }
+
+  /* Focus styles */
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  /* Button styles */
+  .btn {
+    @apply px-6 py-3 rounded-lg font-medium transition-all duration-200 focus-ring;
+  }
+
+  .btn-primary {
+    @apply bg-primary-500 text-white hover:bg-primary-600 active:bg-primary-700;
+  }
+
+  .btn-outline {
+    @apply border-2 border-primary-500 text-primary-500 hover:bg-primary-500 hover:text-white;
+  }
+
+  .btn-ghost {
+    @apply text-primary-500 hover:bg-primary-50 hover:text-primary-600;
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6 transition-shadow duration-200 hover:shadow-md;
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    ::before,
+    ::after {
+      animation-delay: -1ms !important;
+      animation-duration: 1ms !important;
+      animation-iteration-count: 1 !important;
+      background-attachment: initial !important;
+      scroll-behavior: auto !important;
+      transition-duration: 0s !important;
+      transition-delay: 0s !important;
+    }
+  }
+}
+
+@layer components {
+  .section {
+    @apply py-16 lg:py-24;
+  }
+
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .gradient-primary {
+    background: linear-gradient(135deg, #0C5F3D 0%, #08442D 100%);
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary-600 to-primary-800 bg-clip-text text-transparent;
+  }
+}
